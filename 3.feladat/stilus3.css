@@ -1,0 +1,21 @@
+p {
+    background-color: lavenderblush;
+    padding: 10px;
+    margin: 1%;
+    width: 20%;
+}
+p::first-letter {
+    font-size: x-large;
+    font-weight: bolder;
+    color: red;
+}
+#kifli {
+    position: absolute;
+    top: 0.01cm;
+    left: 11.5cm;
+}
+#tej {
+    position: absolute;
+    left: 23cm;
+    top: 0.01cm;
+}
